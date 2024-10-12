@@ -21,6 +21,9 @@ Se llama pomodoro a la tecnica de gestion del tiempo para durante x rato te inte
 
 **Pots contestar a un missatge de whatsapp durant un pomodoro?**
 
+No deberas silenciar las notificaciones para evitar que el sonido o el mensaje en si te molesten durante el trabajo                                                                                                                                                                                       
+**Quina llargada es proposa? Es pot modificar?**
+
 
 
 
