@@ -15,6 +15,13 @@ herramientas que activan la cuenta atrás que usarias en el pomodoro
 
 Las debes silenciar para que mientras estés en el flujo de trabajo no tengas distracciones  
 
+**A que s'anomena un pomodoro**
+
+Se llama pomodoro a la tecnica de gestion del tiempo para durante x rato te intentas concentrar con todo en el trabajo y vas haciendo descansos poco a poco,también se le llama pomodoro al tomate en italiano
+
+**Pots contestar a un missatge de whatsapp durant un pomodoro?**
+
+
 
 
 
