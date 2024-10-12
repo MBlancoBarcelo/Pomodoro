@@ -38,6 +38,11 @@ Podrás contestar el email cuando el tiempo de trabajo haya terminado y tengas t
 Podrás contestar el email cuando el tiempo de trabajo haya terminado y tengas tu tiempo de descanso en ese periodo podrás contestar los email a menos que sean de máxima urgencia
 
 
+**Quin és el principal benefici d’aquesta tècnica?**
+
+Maximizar el tiempo de trabajo y la eficiencia para evitar perder el tiempo
+
+
 
 
 
