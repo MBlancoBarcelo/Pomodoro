@@ -21,13 +21,19 @@ Se llama pomodoro a la tecnica de gestion del tiempo para durante x rato te inte
 
 **Pots contestar a un missatge de whatsapp durant un pomodoro?**
 
-No deberas silenciar las notificaciones para evitar que el sonido o el mensaje en si te molesten durante el trabajo                                                                                                                                                                                       
+No deberas silenciar las notificaciones para evitar que el sonido o el mensaje en si te molesten durante el trabajo                                                                                                                                                                                        
+
 **Quina llargada es proposa? Es pot modificar?**
 
 Se propone de 25 a 30 minutos con 5 minutos de descanso entre periodo de trabajo y periodo de trabajo
 se puede modificar pero tambien deberas hacer que el periodo de descanso sea proporcional al de trabajo
 
+**Quan podràs contestar a un email?**
+
+Podrás contestar el email cuando el tiempo de trabajo haya terminado y tengas tu tiempo de descanso en ese periodo podrás contestar los email a menos que sean de máxima urgencia                                                                                                                                
+
 **
+
 
 
 
