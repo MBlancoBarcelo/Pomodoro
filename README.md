@@ -6,6 +6,6 @@ Intellij Idea tiene el plugin Pomodoro ™  y el Visual studio code tiene el pom
 herramientas que activan la cuenta atrás que usarias en el pomodoro
 
 
-<image src="./Pomodoro.PNG" alt="imagen de VSC">
-<image src="./Pomodoro2.PNG" alt="imagen de intellij IDEA">
+![Imagen de VSC](/Pomodoro.PNG)
+![Imagen de Intellij IDEA](/Pomodoro2.PNG)
 
