@@ -32,11 +32,6 @@ se puede modificar pero tambien deberas hacer que el periodo de descanso sea pro
 
 Podrás contestar el email cuando el tiempo de trabajo haya terminado y tengas tu tiempo de descanso en ese periodo podrás contestar los email a menos que sean de máxima urgencia                                                                                                                                
 
-**Quan podràs contestar a un email?**
-
-
-Podrás contestar el email cuando el tiempo de trabajo haya terminado y tengas tu tiempo de descanso en ese periodo podrás contestar los email a menos que sean de máxima urgencia
-
 
 **Quin és el principal benefici d’aquesta tècnica?**
 
